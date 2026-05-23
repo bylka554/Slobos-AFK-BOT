@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sosisochka.aternos.me:46263",
+    "ip": "sosisochka.aternos.me",
     "port": 46263,
     "version": "1.21.11"
   },
